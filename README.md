@@ -36,7 +36,7 @@ To classify skin cancer using skin lesions images. To achieve higher accuracy an
 - Activation Function(Softmax) - The softmax function is used as the activation function in the output layer of neural network models that predict a multinomial probability distribution. The main advantage of using Softmax is the output probabilities range. The range will 0 to 1, and the sum of all the probabilities will be equal to one.
 
 ### Model Architecture
-![Model Arch](https://github.com/kshitij-raj/Melanoma-Skin-Cancer-Detection/blob/d8b2ca8cc296af14ab9aa7a6def31a7efc86271b/Readme_images/ModelLayer.png)
+![Model Arch](https://github.com/Sudhansu-Grahacharya/Melenoma_Detection/blob/main/Model%20Architecture.png)
 
 ### Model Evaluation
 ![ModelEvaluation](https://github.com/Sudhansu-Grahacharya/Melenoma_Detection/blob/main/Accuracy.png)
