@@ -21,7 +21,7 @@ The data set contains the following diseases:
 
 ### Sample image from Dataset
 
-![sample image](https://github.com/Sudhansu-Grahacharya/Melenoma_Detection/blob/main/types.png))
+![sample image](https://github.com/Sudhansu-Grahacharya/Melenoma_Detection/blob/main/types_1.png)
 
 ## CNN Architecture Design
 To classify skin cancer using skin lesions images. To achieve higher accuracy and results on the classification task, I have built custom CNN model.
