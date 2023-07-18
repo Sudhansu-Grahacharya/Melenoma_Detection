@@ -39,4 +39,4 @@ To classify skin cancer using skin lesions images. To achieve higher accuracy an
 ![Model Arch](https://github.com/kshitij-raj/Melanoma-Skin-Cancer-Detection/blob/d8b2ca8cc296af14ab9aa7a6def31a7efc86271b/Readme_images/ModelLayer.png)
 
 ### Model Evaluation
-![ModelEvaluation](https://github.com/kshitij-raj/Melanoma-Skin-Cancer-Detection/blob/7e7a17d3c891bf12be42385979168135775654c4/Readme_images/ModelEvaluation.png)
+![ModelEvaluation](https://github.com/Sudhansu-Grahacharya/Melenoma_Detection/blob/main/Accuracy.png)
